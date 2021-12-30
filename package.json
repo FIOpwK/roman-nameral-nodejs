@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/FIOpwK/roman-nameral-nodejs/issues"
   },
-  "homepage": "https://github.com/FIOpwK/roman-nameral-nodejs#readme"
+  "homepage": "https://github.com/FIOpwK/roman-nameral-nodejs#readme",
+  "dependencies": {
+    "jest": "^27.4.5"
+  }
 }

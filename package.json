@@ -1,0 +1,23 @@
+{
+  "name": "roman-nameral-nodejs",
+  "version": "2.1.5",
+  "description": "RomanNameral in NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FIOpwK/roman-nameral-nodejs.git"
+  },
+  "keywords": [
+    "node",
+    "js"
+  ],
+  "author": "Dajuan (llanhmod)",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/FIOpwK/roman-nameral-nodejs/issues"
+  },
+  "homepage": "https://github.com/FIOpwK/roman-nameral-nodejs#readme"
+}
